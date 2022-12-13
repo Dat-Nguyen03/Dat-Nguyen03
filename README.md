@@ -60,6 +60,8 @@
   <img src="svg/datnguyen-quote.svg" width="846" height="150"/>
 </a>
 <br>
-<h2 align="center">Thanks for visiting</h2>
+<br>
+<br>
+<h2 align="center">❤️ Thanks for visiting ❤️</h2>
 <img src="svg/anime-sleep-31.gif" width="846"/>
 
