@@ -59,4 +59,7 @@
 <a href="#" target="_blank">
   <img src="svg/datnguyen-quote.svg" width="846" height="150"/>
 </a>
+<br>
+<h2>Thanks for visiting</h2>
+<img src="svg/anime-sleep-31.gif" width="846" height="150"/>
 
