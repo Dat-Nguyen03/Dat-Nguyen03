@@ -14,11 +14,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=7175AA" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=0075C6" alt="TypeSrcipt logo" title="typesrcipt" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=17ABB0" alt="git logo" title="Tailwindcss" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Tailwindcss logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/BOOTSTRAP-282C34?logo=bootstrap&logoColor=7952B3" alt="boostrap logo" title="bootstrap" height="25" /></span>
+<span><img src="https://img.shields.io/badge/BootStrap-282C34?logo=bootstrap&logoColor=7952B3" alt="boostrap logo" title="bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
