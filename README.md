@@ -14,6 +14,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=7175AA" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=17ABB0" alt="git logo" title="Tailwindcss" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/BOOTSTRAP-282C34?logo=bootstrap&logoColor=7952B3" alt="boostrap logo" title="bootstrap" height="25" /></span>
@@ -66,4 +68,3 @@
 <br>
 <h2 align="center">❤️ Thanks for visiting ❤️</h2>
 <img src="svg/anime-sleep-31.gif" width="846"/>
-
